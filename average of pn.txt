@@ -1,0 +1,15 @@
+prime no are
+11
+13
+17
+19
+23
+29
+31
+37
+41
+43
+47
+sum of  prime no in given range311
+cp=11
+average=28.2727
